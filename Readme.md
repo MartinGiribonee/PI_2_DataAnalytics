@@ -1,4 +1,8 @@
 
+<h1 align=center> HENRY’S LABS </h1>
+
+<h2 align=center>PROYECTO INDIVIDUAL II -- Data_Analytics <br>
+    _Data Scientist y Data_Analytics: Martín Mariano, Giribone_</h2>
 
 
 ## INTRODUCCIÓN
