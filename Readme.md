@@ -1,3 +1,6 @@
+
+
+
 ## INTRODUCCIÓN
 
 Se propone hacer un analisis minucioso de un índice en particular, el indicador S&P 500. Este índice pondera la capitalización bursátil de las 500 mayores empresas que cotizan en la bolsa de los Estados Unidos. El índice está considerado como el mejor indicador de la renta variable estadounidense y es ampliamente utilizado y referenciado
